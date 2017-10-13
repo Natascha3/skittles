@@ -1,0 +1,13 @@
+.mytext{
+  padding-left: 100px;
+}
+
+#colorrow .col-sm-4 {
+  border: 1px solid #000;
+  border-radius: 10px;
+  height: 50px;
+}
+
+.button{
+  padding-left: 50px;
+}
